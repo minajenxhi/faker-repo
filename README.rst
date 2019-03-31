@@ -434,4 +434,4 @@ Credits
     :alt: Package license
 
 
-.. | this is a comment for
+.. | this is a comment for maintanance assignment to commit
